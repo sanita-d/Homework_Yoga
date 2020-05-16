@@ -1,0 +1,31 @@
+body{
+    background-color: lightgrey;
+}
+
+@font-face {
+    font-family: "Pacifico";
+    src: url("styles/font/Pacifico-Regular.ttf");
+  }
+/* body{
+    font-family: Pacifico;
+} */
+.pacifico{
+    font-family: Pacifico;
+    color: darkgreen;
+    
+}
+.yoga-stuff-images {
+    border-color: darkgray;
+    border-width: 3px;
+    border-style: solid;
+}
+.main-image {
+    border-radius: 50%;
+    border-color: darkgrey;
+    border-style: solid;
+    border-width:3px;
+}
+.link-font{
+    font-style: italic;
+    color: darkolivegreen;
+}
